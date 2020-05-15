@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Adapter",
+    "\\Composite",
+    "\\Decorator",
+    "\\Dominio.test",
+    "\\Facade",
+    "\\Factory",
+    "\\Prototype",
+    "\\Singleton",
+    "\\Strategy"
+  ],
+  "SelectedNode": "\\Decorator\\Decorador.cs",
+  "PreviewInSolutionExplorer": false
+}

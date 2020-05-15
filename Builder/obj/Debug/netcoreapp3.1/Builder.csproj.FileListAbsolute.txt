@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\Parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\USUARIO\source\repos\Parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\USUARIO\source\repos\Parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\USUARIO\source\repos\Parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\USUARIO\source\repos\Parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\USUARIO\source\repos\Parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
